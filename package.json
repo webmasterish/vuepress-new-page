@@ -1,9 +1,10 @@
 {
   "name": "vuepress-new-page",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple way to create a new VuePress page or post",
   "scripts": {
-    "test": "ava --verbose"
+    "test": "nyc --reporter=html --reporter=text ava --verbose",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -52,6 +53,8 @@
   ],
   "devDependencies": {
     "ava": "1.0.1",
-    "execa": "1.0.0"
+    "coveralls": "3.0.2",
+    "execa": "1.0.0",
+    "nyc": "13.1.0"
   }
 }
