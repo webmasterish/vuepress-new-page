@@ -4,7 +4,10 @@
   "description": "A simple way to create a new VuePress page or post",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text ava --verbose",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "preversion": "npm test",
+    "version": "git add --all",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
