@@ -1,6 +1,6 @@
 {
   "name": "vuepress-new-page",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple way to create a new VuePress page or post",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text ava --verbose",
