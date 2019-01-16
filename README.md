@@ -5,7 +5,8 @@
 [![Build Status](https://img.shields.io/travis/webmasterish/vuepress-new-page/master.svg?style=flat-square)](https://travis-ci.org/webmasterish/vuepress-new-page)
 [![Coverage Status](https://img.shields.io/coveralls/github/webmasterish/vuepress-new-page/master.svg?style=flat-square)](https://coveralls.io/github/webmasterish/vuepress-new-page?branch=master)
 [![npm version](https://img.shields.io/npm/v/vuepress-new-page.svg?style=flat-square)](http://npm.im/vuepress-new-page)
-[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/webmasterish/vuepress-new-page.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/webmasterish/vuepress-new-page.svg?style=flat-square)](https://greenkeeper.io/)
+[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 
 ## Why
