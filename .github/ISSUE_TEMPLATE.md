@@ -32,7 +32,7 @@
 
 ## Your Environment
 
-- vuepress-new-page version: <!-- add your sass-parser version here -->
+- vuepress-new-page version: <!-- add your vuepress-new-page version here -->
 - node version             : <!-- add your node version here -->
 - npm version              : <!-- add your npm version here -->
 - OS                       : <!-- add your OS details here -->
