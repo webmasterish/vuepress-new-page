@@ -43,7 +43,7 @@
     "dateformat": "3.0.3",
     "fs-extra": "7.0.1",
     "rc": "1.2.8",
-    "slugify": "1.3.4"
+    "slugify": "1.3.6"
   },
   "bin": {
     "vuepress-new-page": "./cli.js",
